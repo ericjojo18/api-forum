@@ -16,4 +16,5 @@ API REST pour un forum avec django
 - creer un fichier urls.py dans l'application
 - faire les differentes routes
 - configuration de l'urls dans le projet
+- on lance le serveur avec python manage.py runserver
 - on visualise avec postman pour le test
