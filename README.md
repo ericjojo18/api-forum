@@ -1,7 +1,7 @@
 API REST pour un forum avec django
 
 - on crée un dossier forum
-- pour clone le projet: git clone https://github.com/ericjojo18/api-forum
+- pour clone le projet: git clone https://github.com/ericjojo18/api-forum.git
 - creation de l'environnement dans le dossier forum( python -m ven env)
 - activation de l'environnement virtuel( macos: source env/bin/activate, windows: env\Scripts\activate)
 - installation des dependences
