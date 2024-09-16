@@ -4,8 +4,7 @@ API REST pour un forum avec django
 - pour clone le projet: git clone https://github.com/ericjojo18/api-forum
 - creation de l'environnement dans le dossier forum( python -m ven env)
 - activation de l'environnement virtuel( macos: source env/bin/activate, windows: env\Scripts\activate)
-- creation du projet api-forum (django-admin createproject forum)
-- creation de l'application api (django-admin startapp api)
+- installation des dependences
 - configuration de l'application dans setting du project
 - configuration de la bd dans le settings du projet
 - faire les differentes migrations(python manage.py makemigrations et python manage.py migrate)
