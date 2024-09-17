@@ -8,7 +8,7 @@ API REST pour un forum avec django
 - configuration de l'application dans setting du project
 - configuration de la bd dans le settings du projet
 - faire les differentes migrations(python manage.py makemigrations et python manage.py migrate)
-- faire les differentes routes
+- faire les differentes routes (views , models et urls.py)
 - configuration de l'urls dans le projet
 - on lance le serveur avec python manage.py runserver ( http://127.0.0.1:8000/api/)
 - on visualise avec postman pour le test
